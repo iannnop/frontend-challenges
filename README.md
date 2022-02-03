@@ -13,7 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -51,6 +50,7 @@ I want to practice more base CSS before deciding to move toward CSS frameworks l
 - [JavaScriptMastery](https://www.youtube.com/c/JavaScriptMastery) - I learned some naming conventions for CSS like the BEM methodology, which helped me get over slumps of not knowing what classname to use, and I followed how he declared variables for colors and fonts.
 
 ## Author
+  Ian Wu
 
 - Frontend Mentor - [@iannnop](https://www.frontendmentor.io/profile/iannnop)
 - Twitter - [@iannnop](https://www.twitter.com/iannnop)
