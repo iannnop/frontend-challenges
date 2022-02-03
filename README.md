@@ -19,13 +19,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Desktop](./desktop-qr-code-screenshot.png)
-![Mobile](./mobile-qr-code-screenshot.png)
+<img src="./desktop-qr-code-screenshot.png" width=500 >
+<img src="./mobile-qr-code-screenshot.png" width=200 >
 
 ### Links
 
 - Solution URL: [Solution URL]()
-- Live Site URL: []()
 
 ## My process
 
@@ -35,8 +34,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Flexbox
 - [React](https://reactjs.org/) - JS library
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
