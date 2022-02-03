@@ -18,13 +18,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-<img src="./desktop-qr-code-screenshot.png" width=500 >
-<img src="./mobile-qr-code-screenshot.png" width=200 >
+<img src="./desktop-qr-code-screenshot.png" width=500 />
+<img src="./mobile-qr-code-screenshot.png" width=200 />
 
 ### Links
 
-- Solution URL: [Solution URL]()
-- Live URL: [Vercel URL](https://qr-code-component-7wi2e1vcu-iannnop.vercel.app/)
+- <a href="" target="_blank">Solution URL</a>
+- <a href="https://qr-code-component-7wi2e1vcu-iannnop.vercel.app/" target="_blank">Vercel Live URL</a>
 
 ## My process
 
