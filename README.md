@@ -25,7 +25,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- <a href="" target="_blank">Solution URL</a>
+- <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component-using-react-aQgTUokv6" target="_blank">Frontend Mentor Solution URL</a>
 - <a href="https://qr-code-component-7wi2e1vcu-iannnop.vercel.app/" target="_blank">Vercel Live URL</a>
 
 ## My process
