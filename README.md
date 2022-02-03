@@ -1,6 +1,8 @@
 # Frontend Mentor - QR code component solution with React
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+
+Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -48,7 +50,7 @@ I want to practice more base CSS before deciding to move toward CSS frameworks l
 
 - [Modern CSS Solutions](https://moderncss.dev/) - Reference for modern best practices with css
 - [React Tutorial App](https://react-tutorial.app/) - The free practice problems to learn the basics of React help reinforce my understanding of React
-- [JavaScriptMastery](https://www.youtube.com/c/JavaScriptMastery) - I learned some naming conventions for CSS like the BEM methodology, which helped me get over slumps of not knowing what classname to use, and I followed how he declared variables for colors and fonts.
+- [JavaScriptMastery](https://www.youtube.com/c/JavaScriptMastery) - I learned some naming conventions for CSS like the BEM methodology, which helped me get over slumps of not knowing what classname to use, and I also liked how he declared variables for colors and fonts.
 
 ## Author
   Ian Wu
