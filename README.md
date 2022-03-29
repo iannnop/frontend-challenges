@@ -56,4 +56,6 @@ I want to practice more base CSS before deciding to move toward CSS frameworks l
   Ian Wu
 
 - Frontend Mentor - [@iannnop](https://www.frontendmentor.io/profile/iannnop)
+- LinkedIn - [@iannnop](https://www.linkedin.com/in/iannnop/)
+- Instagram - [@ian.wuu](https://www.instagram.com/ian.wuu/)
 - Twitter - [@iannnop](https://www.twitter.com/iannnop)
